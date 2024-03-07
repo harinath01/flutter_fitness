@@ -1,16 +1,5 @@
 # fitness
 
-A new Flutter project.
 
-## Getting Started
+![Untitled](https://github.com/harinath01/flutter_fitness/assets/89839073/584f1878-2b34-4ab5-9f1c-bdd117bc1a19) ![Untitled2](https://github.com/harinath01/flutter_fitness/assets/89839073/f60fba30-0e82-4727-bb7f-f40b97bb6f16)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
